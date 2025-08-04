@@ -1,6 +1,6 @@
 export default function Navbar(){
     return (
-        <header>
+        <header className="navbar">
             <nav>
                 <span>My Website</span>
             </nav>

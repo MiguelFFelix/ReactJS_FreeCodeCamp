@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Intel, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(255, 115, 115);
+    color: white;
+}
