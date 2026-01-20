@@ -30,6 +30,7 @@ header > h1 {
 article.journal-entry {
     display: flex;
     padding: 20px;
+    /*margin-bottom: 36px;*/
 }
 
 article.journal-entry .marker {
